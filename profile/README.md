@@ -1,6 +1,6 @@
 # KnoxCall
 
-**API gateway + secrets manager — keys never touch your app.**
+**Your apps hold a token. KnoxCall holds the key.**
 
 Your code calls the API through KnoxCall, and KnoxCall injects the credential. Keys stay
 encrypted in one place, and you can rotate or revoke them without redeploying.
