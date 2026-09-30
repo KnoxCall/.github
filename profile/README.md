@@ -5,7 +5,7 @@
 Your code calls the API through KnoxCall, and KnoxCall injects the credential. Keys stay
 encrypted in one place, and you can rotate or revoke them without redeploying.
 
-[Website](https://knoxcall.com) · [Docs](https://docs.knoxcall.com) · [Live demo](https://knoxcall.com/demo) · [Trust center](https://knoxcall.com/trust)
+[Website](https://knoxcall.com) · [Docs](https://docs.knoxcall.com) · [Live demo](https://knoxcall.com/demo) · [Discord](https://discord.knoxcall.com) · [Trust center](https://knoxcall.com/trust)
 
 <!-- Uncomment once https://knoxcall.com/beta is live:
 **Founding testers:** we are opening a small beta. [Apply at knoxcall.com/beta](https://knoxcall.com/beta).
